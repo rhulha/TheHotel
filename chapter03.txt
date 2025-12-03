@@ -1,0 +1,324 @@
+Three
+
+
+
+
+Nate was at the door at five-fifty.
+
+He'd learned his lesson yesterday. The street was still dark, the city caught in that strange pre-dawn quiet where even Los Angeles seemed to hold its breath. His suit had come back from the dry cleaners crisp and perfect, and he'd spent twenty minutes that morning making sure his shoes were polished.
+
+At five fifty-nine, he heard the lock click.
+
+David opened the door at six a.m. exactly and gave Nate the smallest of nods. "Better."
+
+It felt like winning the lottery.
+
+The second day was different from the first. Not easier—David made sure of that—but different in the way a pattern started to emerge from what had seemed like chaos twenty-four hours ago. Nate shadowed David through the morning routine and found himself anticipating the next step before David announced it.
+
+Check the ledger. Verify overnight departures. Review the day's arrivals. Inspect Rooms 204, 312, and 507—all checkouts from the night shift.
+
+When David handed him the flashlight for the room inspection, Nate didn't hesitate. Bathroom first—bowl, then tank, then cabinet. Closet. Bed—linens, mattress, underneath with the light. Furniture. Windows.
+
+Three minutes, twelve seconds.
+
+David didn't comment, which Nate was learning meant he'd done it right.
+
+At seven-fifteen, Rebecca was waiting for him in the restaurant. She had the same sharp expression, the same efficient movements, but when she handed him the table chart, she didn't explain it again.
+
+"You remember the layout?"
+
+"Sixteen tables. Twelve is corner four top. Six is window two top. Nine is courtyard four top."
+
+Something that might've been approval flickered across her face. "Delacroix is at table three at seven forty-five. You know her order?"
+
+"Oatmeal and black coffee."
+
+"Good. Set it up."
+
+The breakfast service went smoother than yesterday. Nate only mixed up one table number, and he caught his own mistake before Rebecca had to correct him. By eight-thirty, he'd developed a rhythm—seat, menu, water, step back. Clear, reset, polish.
+
+At nine o'clock, Sophie appeared in the restaurant doorway and gestured for him. Rebecca glanced at the dining room, where only three tables remained occupied, and nodded.
+
+"Don't break him," Rebecca said.
+
+Sophie grinned. "Can't make any promises."
+
+They took the elevator to the fourth floor. Nate watched the buttons light up—one, two, three, four. Above the number nine button, the metal plate with the keyhole caught the light. He thought about asking Sophie about it again, then remembered her advice from yesterday. Don't get curious about things you're not supposed to know.
+
+The fourth floor hallway was identical to the others, Persian runners and brass room numbers and oil paintings of stern men in expensive suits. Sophie led him to Room 427 and knocked.
+
+"Housekeeping."
+
+No response.
+
+She unlocked the door and stepped inside. The suite was larger than the one from yesterday—a sitting room with a desk, a bedroom visible through French doors, and a wet bar stocked with bottles that probably cost more than Nate's monthly rent.
+
+On the desk sat three newspapers—the Los Angeles Times, the Wall Street Journal, and something in what looked like German or maybe Dutch. A laptop was open, its screen dark. Next to it, a leather portfolio identical to the one Nate had seen yesterday in Room 614.
+
+Sophie picked up a notepad from the sideboard. "Guest requested fresh flowers, a pot of Ethiopian coffee delivered at two p.m., and—" She paused, reading. "—a private meeting room for six people at four p.m. with full A/V capabilities and enhanced security."
+
+"Enhanced security meaning what?"
+
+"Meaning you and I are going to spend the next hour debugging a conference room." She headed for the door. "Come on. This is the fun part."
+
+The conference room was on the third floor, accessed through a door Nate had walked past a dozen times without noticing. It was marked simply "Private" in small brass letters. Sophie unlocked it with her key card and flipped on the lights.
+
+The room was immaculate. A long mahogany table dominated the space, surrounded by twelve leather chairs that looked like they'd never been sat in. The walls were paneled in dark wood. At one end of the room, a screen hung from the ceiling. At the other, a sideboard held glasses, a coffee service, and bottles of water.
+
+Sophie set her bag down on the table and pulled out what looked like a small radio. "We sweep for bugs before any enhanced security meeting. Standard protocol."
+
+"You're serious."
+
+"Completely." She flipped a switch on the device and it started making a soft clicking sound. "This detects RF signals, audio transmitters, cameras, anything that shouldn't be here." She handed it to Nate. "You walk the perimeter, I check the furniture and fixtures. Start at that corner and work clockwise."
+
+Nate took the device and started walking. The clicking stayed steady as he moved along the wall, checking behind the paintings, around the light switches, near the air vents. When he got to the third wall, near the sideboard, the clicking accelerated into a rapid staccato.
+
+"Sophie."
+
+She looked up from where she was examining the underside of a chair. "You got something?"
+
+"I think so."
+
+She crossed the room and took the device. The clicking intensified as she moved it closer to the sideboard. She ran it along the length of the furniture, and when she got to the coffee service, it screamed.
+
+Sophie set down the device and picked up the silver coffee pot. She turned it over, examining the base, and then smiled. "Got it."
+
+She showed Nate a small black disc attached to the underside of the pot. It was barely larger than a button, flat and unremarkable.
+
+"What is it?"
+
+"Audio transmitter. Probably good for about fifty feet." She peeled it off carefully and set it on the table. "This is why we sweep."
+
+"Who put it there?"
+
+Sophie looked at him, and for the first time since he'd met her, her expression was completely serious. "That's the question you never ask. Could've been a guest. Could've been staff. Could've been someone who walked in off the street fifty years ago. Doesn't matter. We find it, we remove it, we log it, and we forget about it."
+
+"Where does it go?"
+
+"Mr. Carver's office. He handles it from there." She pulled a small plastic bag from her kit and dropped the transmitter inside. "You did good. Most people don't catch their first bug for weeks."
+
+"Beginner's luck."
+
+"Maybe." She finished sweeping the room, found nothing else, and nodded. "All clear. Now we set up the A/V."
+
+The next forty minutes were a crash course in conference room technology. Sophie showed him how to connect the laptop to the projection system, how to test the audio feed, how to configure the wireless network for security. Nate tried to remember every step, knowing he'd probably forgotten half of it already.
+
+By the time they finished, it was ten forty-five. Sophie locked the conference room behind them.
+
+"You're getting the hang of this," she said.
+
+"I'm trying."
+
+"No, I mean it. David said you're picking things up faster than most new hires. That's not easy to do with him breathing down your neck."
+
+"David said that?"
+
+Sophie smiled. "He did. Don't expect him to tell you directly, though. That would be too much like encouragement."
+
+They took the stairs down to the first floor. Nate's shift didn't end until two, which meant another three hours of whatever David had planned for him. As they walked through the lobby, he noticed something he hadn't seen before.
+
+To the right of the main elevators was another elevator. Larger. The doors were polished brass instead of brushed steel, and the call button was set inside a small panel that required a key card.
+
+"What's that?" Nate asked.
+
+Sophie followed his gaze and her expression shifted. "The private elevator."
+
+"Where does it go?"
+
+"Restricted floors." She said it the way someone might say "restricted airspace" or "classified documents." "You don't use it. You don't stand near it. And you definitely don't stare at it when certain guests are around."
+
+"What guests?"
+
+"You'll know them when you see them." She checked her watch. "I've got to run. Guest services needs me on five. You good?"
+
+"Yeah. Thanks for the training."
+
+"Anytime." She started toward the stairs, then stopped and turned back. "Nate?"
+
+"Yeah?"
+
+"When I said don't stare at the private elevator? I meant it. That's not advice. That's a rule. Follow it."
+
+She left before he could ask what happened if you didn't.
+
+Nate found David at the front desk, writing something in the ledger. David glanced up as Nate approached.
+
+"Sophie says the conference room is ready."
+
+David made a note in the ledger. "Good. You're on door duty until eleven-thirty."
+
+"Door duty?"
+
+"Someone has to let guests in. That someone is you." David gestured toward the entrance. "Stand by the door. When someone approaches, you open it for them. You greet them professionally. You do not engage in conversation unless they initiate it. You do not offer assistance unless they ask for it. Clear?"
+
+"Clear."
+
+Nate positioned himself near the entrance and waited. For the first ten minutes, nothing happened. Then a woman in her fifties approached, wearing a suit that probably cost more than his car. Nate opened the door.
+
+"Good morning, ma'am."
+
+She didn't look at him. Just walked through like he was part of the furniture.
+
+Five minutes later, a man in his thirties arrived, carrying a briefcase. Nate opened the door.
+
+"Good morning, sir."
+
+The man nodded. "Morning."
+
+He walked to the desk where David greeted him by name. Mr. Hendricks. Nate recognized him from yesterday's breakfast service.
+
+At eleven-fifteen, Nate was starting to understand that door duty was less about opening doors and more about being invisible while opening doors. He'd let in eight guests, and only two had acknowledged his existence.
+
+Then he heard voices outside.
+
+Multiple people, talking in low tones. Not guests chatting. Something else. Something that made the hair on his neck stand up.
+
+The door opened before Nate could reach it.
+
+Three men in dark suits walked in first. They moved like David had during the room inspection—efficient, alert, scanning everything. Behind them came a woman in her sixties with silver hair and an expression that suggested she'd negotiated treaties and ended careers before breakfast. Behind her, two more men in dark suits.
+
+Nate started to greet them.
+
+"Eyes down." David's voice was quiet but sharp, coming from somewhere behind him.
+
+Nate looked down at the marble floor.
+
+From the corner of his vision, he saw the group move toward the private elevator. One of the suited men pulled out a key card. The panel beside the elevator opened, revealing not just a call button but a numerical keypad.
+
+The man entered a code. The elevator doors opened with a soft chime that sounded different from the regular elevators—deeper, richer, like the difference between a bell and a gong.
+
+Nate kept his eyes on the floor. His curiosity was screaming at him to look up, to see who these people were, to understand what made them different from every other guest who'd walked through that door.
+
+He looked up.
+
+For just a second, he made eye contact with one of the suited men. The man was in his forties, with sharp features and eyes that took in every detail of Nate in about half a second. Those eyes narrowed.
+
+Then a hand clamped onto Nate's elbow and pulled him backward.
+
+David steered him through the door behind the front desk and into the office. The door closed behind them with a soft click.
+
+"What part of 'eyes down' was unclear?" David's voice was still quiet, but there was an edge to it now that made Nate's stomach drop.
+
+"I'm sorry. I just—"
+
+"You just what? You got curious? You wanted to see who they were?" David stepped closer. "Let me tell you exactly what you just did. You made eye contact with a security detail protecting someone important enough that they use the private elevator. That security detail now has your face. They'll run it. They'll find out who you are. And they'll add you to a list of people who might be a problem."
+
+"I didn't mean—"
+
+"I don't care what you meant. I care what you did." David took a breath, and when he spoke again, his voice was back to normal. Almost. "This is your one warning, Jennings. The only one you get. What happens in this hotel stays in this hotel. That doesn't just mean don't talk about it. It means don't look. Don't listen. Don't remember. You see things here—you'll see a lot of things—and you let them pass through your awareness like they never existed. Can you do that?"
+
+Nate nodded. "Yes."
+
+"I need to hear you say it."
+
+"I can do that."
+
+David studied him for a long moment. "We'll see." He moved to the door, then stopped. "Rebecca is waiting for you in the restaurant. Go help her with lunch service prep."
+
+Nate left the office and walked toward the restaurant, carefully not looking at the private elevator or the group that had just disappeared into it.
+
+His hands were shaking.
+
+He found Rebecca in the restaurant, counting silverware. She glanced up as he approached.
+
+"You look like you just got yelled at."
+
+"I did."
+
+"What'd you do?"
+
+"Looked at the wrong person."
+
+Rebecca set down the silverware. "The private elevator?"
+
+Nate nodded.
+
+"Yeah, everyone does that once. Usually on their first week." She went back to counting. "Don't do it again."
+
+"I won't."
+
+"Good. Because David won't give you a second warning. None of us will." She pointed toward the kitchen. "Lunch starts at eleven-thirty. We've got three reservations and probably four walk-ins. You're doing the same thing as breakfast—seating, water, clearing. Think you can handle that without looking at anyone you're not supposed to?"
+
+"Yes."
+
+"Then get to work."
+
+At eleven-thirty, Nate was back in position by the restaurant entrance, greeting guests and seating them at the correct tables. His hands had stopped shaking. His mind was still replaying that half-second of eye contact with the security detail.
+
+Sophie appeared in the doorway at twelve-fifteen. She didn't say anything, just gave him a look that said David told me what happened.
+
+Nate focused on pouring water for table nine.
+
+At one o'clock, during a lull in service, Sophie pulled him aside.
+
+"You okay?"
+
+"Yeah."
+
+"David was hard on you."
+
+"He was right to be."
+
+Sophie studied him. "Look, I know it's overwhelming. All the rules, all the things you're not supposed to do. It gets easier. But that one rule—the elevator, the guests who use it—that's not negotiable. Those people..." She trailed off, looking for words. "Let's just say they value their privacy more than most people value their lives. You understand what I'm saying?"
+
+"I think so."
+
+"Good." She glanced toward the kitchen. "Rebecca says you're doing well otherwise. That's something. Most people who make a mistake like you did this morning don't make it to day three."
+
+"I'm making it to day three?"
+
+"You are if you don't look at that elevator again." She smiled, but it didn't quite reach her eyes. "Come on. I need help with something on seven."
+
+They took the regular elevator to the seventh floor. As the numbers lit up—one, two, three, four, five, six, seven—Nate noticed something he hadn't before.
+
+"The private elevator," he said. "You said it goes to restricted floors. But there are only ten floors in the building."
+
+Sophie was quiet for a moment. When she spoke, her voice was careful. "There are ten floors above ground."
+
+The elevator doors opened onto the seventh floor hallway before Nate could process what she'd just said.
+
+Sophie stepped out and started walking. "Room 712 needs a new safe installed. You're going to help me."
+
+"Wait. What do you mean, above ground?"
+
+Sophie stopped and turned. "Nate. Do you remember what I told you about getting curious?"
+
+"Don't."
+
+"Right. Don't." She started walking again. "The private elevator has floors below ground. I've never been down there. I don't know what's down there. And I don't want to know. Neither do you."
+
+"But—"
+
+"Neither. Do. You." She stopped at Room 712 and unlocked the door. "Now come help me install this safe, and we're going to forget we had this conversation."
+
+Nate followed her into the room and tried very hard not to think about elevators that only had negative numbers.
+
+He failed.
+
+At two p.m., David met him at the front desk.
+
+"Your shift is over. Tomorrow, five-fifty at the door."
+
+"I'll be there."
+
+David studied him for a moment. "You did good work today. Apart from the obvious."
+
+It was the first direct compliment David had given him. Nate decided to take it as a win.
+
+"Thank you."
+
+"Don't thank me. Just show up tomorrow and do better." David turned back to the ledger. "Dismissed."
+
+Nate walked out into the afternoon sunlight and realized he'd survived his second day. Barely. But he'd survived.
+
+His phone buzzed. A text from Sophie.
+
+You did fine. Don't beat yourself up. But seriously—don't look at that elevator again.
+
+He pocketed the phone and started toward where he'd parked his car three blocks away.
+
+Tomorrow, he thought. He'd do better tomorrow.
+
+He had no idea that tomorrow, he'd meet the employee who'd been working at the Hotel longer than anyone else.
+
+And she'd be the one to tell him about the room in the cellar.
